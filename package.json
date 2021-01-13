@@ -1,0 +1,19 @@
+{
+  "name": "secbyte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryaa192/auth-CryptoSystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryaa192/auth-CryptoSystem/issues"
+  },
+  "homepage": "https://github.com/aryaa192/auth-CryptoSystem#readme"
+}
